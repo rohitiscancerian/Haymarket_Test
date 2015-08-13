@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug
+END
+UnitTestProject.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/UnitTestProject.dll
+END
+UnitTestProject.dll.VisualState.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/UnitTestProject.dll.VisualState.xml
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/nunit.framework.dll
+END
+CodeTest.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/CodeTest.dll
+END
+CodeTest.dll.VisualState.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/CodeTest.dll.VisualState.xml
+END
+nunit.framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/nunit.framework.xml
+END
+UnitTestProject.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/UnitTestProject.pdb
+END
+TestResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/TestResult.xml
+END
+CodeTest.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/42/branches/RohitKumar1/UnitTestProject/bin/Debug/CodeTest.pdb
+END

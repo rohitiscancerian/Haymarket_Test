@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Haymarket\UnitTestProject\bin\Debug\UnitTestProject.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-02-17" time="23:42:13">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5483" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Windows\system32" machine-name="LONRKUM369094" user="rkum36" user-domain="SAPIENT" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Haymarket\UnitTestProject\bin\Debug\UnitTestProject.dll" executed="True" result="Success" success="True" time="0.189" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="UnitTestProject" executed="True" result="Success" success="True" time="0.155" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="UnitTest1" executed="True" result="Success" success="True" time="0.151" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="TestSpeedValetService" executed="True" result="Success" success="True" time="0.136" asserts="0">
+                <results>
+                  <test-case name="UnitTestProject.UnitTest1.TestSpeedValetService()" executed="True" result="Success" success="True" time="0.123" asserts="4" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

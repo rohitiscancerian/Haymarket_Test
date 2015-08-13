@@ -1,0 +1,9 @@
+D:\Haymarket\CodeTest\bin\Debug\CodeTest.dll
+D:\Haymarket\CodeTest\bin\Debug\CodeTest.pdb
+D:\Haymarket\CodeTest\obj\Debug\CodeTest.dll
+D:\Haymarket\CodeTest\obj\Debug\CodeTest.pdb
+D:\test\CodeTest\bin\Debug\CodeTest.dll
+D:\test\CodeTest\bin\Debug\CodeTest.pdb
+D:\test\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+D:\test\CodeTest\obj\Debug\CodeTest.dll
+D:\test\CodeTest\obj\Debug\CodeTest.pdb
